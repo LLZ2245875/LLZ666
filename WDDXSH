@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>我的大学生活</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <p>我的大学生活
+    </p >
+    <div>
+ <p style=" text-align:center;">
+ <a href="index.html">返回主页</a >
+        </p >
+</div>
+  </body>
+</html>
